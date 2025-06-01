@@ -1,4 +1,11 @@
-# Logs
+# Firebase Service Account Keys - DO NOT COMMIT
+tracksy-f2c8d-firebase-adminsdk-fbsvc-60038d774c.json
+tracksy-f2c8d-firebase-adminsdk-fbsvc-67e831bb86.json
+tracksy-f2c8d-firebase-adminsdk-fbsvc-852a9e1577.json
+tracksy-f2c8d-firebase-adminsdk-fbsvc-d465d1fe88.json
+
+# You can also add more general patterns if you prefer, like:
+# *-firebase-adminsdk-*.json# Logs
 logs
 *.log
 npm-debug.log*
